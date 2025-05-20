@@ -1,1 +1,1 @@
-# numerical
+# numerical method
